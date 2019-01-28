@@ -33,3 +33,22 @@ Then the final geometry would be the original geometry
 geo.g
 ```
 plus the obtained translation.
+
+## 3. results
+
+on random geometries 1
+![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/test2_IP.png)
+result using [Abeysooriya et al., 2018](https://www.sciencedirect.com/science/article/pii/S0925527317302980)
+![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/test2_Abey.png)
+
+
+on random geometries 2
+![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/test1_IP.png)
+result using [Abeysooriya et al., 2018](https://www.sciencedirect.com/science/article/pii/S0925527317302980)
+![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/test1_Abey.png)
+
+
+on dataset swim ([Oliveira  et al., 2000](https://link.springer.com/article/10.1007/s002910050105))
+![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/swim_25_0.5_IP.png)
+result using [Abeysooriya et al., 2018](https://www.sciencedirect.com/science/article/pii/S0925527317302980)
+![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/swim_25_0.5_Abey.png)
