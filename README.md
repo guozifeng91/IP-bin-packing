@@ -1,6 +1,6 @@
 # IP-bin-packing
 
-bin packing for irregular polygons in irregular comtainers.
+bin packing for irregular polygons in irregular comtainers using 0-1 integer programming
 ![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/taihushi_IP.png)
 
 result using [Abeysooriya et al., 2018](https://www.sciencedirect.com/science/article/pii/S0925527317302980)
