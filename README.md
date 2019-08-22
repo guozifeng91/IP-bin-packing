@@ -52,3 +52,6 @@ on dataset swim ([Oliveira  et al., 2000](https://link.springer.com/article/10.1
 ![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/swim_25_0.5_IP.png)
 result using [Abeysooriya et al., 2018](https://www.sciencedirect.com/science/article/pii/S0925527317302980)
 ![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/swim_25_0.5_Abey.png)
+
+on polygon with holes
+![](https://github.com/guozifeng91/IP-bin-packing/blob/master/result/with%20hole%20IP.png)
